@@ -19,4 +19,4 @@ var e,t=arguments[3];!function(t,r){"object"==typeof exports&&"object"==typeof m
 },{"./renderModal":"TqZv","./gallery-items":"q5Rn"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss");var e=l(require("./js/renderGallery")),r=l(require("./js/renderModal")),d=l(require("./js/refs")),a=l(require("./js/modalSlider"));function l(e){return e&&e.__esModule?e:{default:e}}(0,e.default)(),d.default.galleryContainer.addEventListener("click",r.default.handleOpenModal),document.addEventListener("keydown",a.default);
 },{"./sass/main.scss":"clu1","./js/renderGallery":"L4ME","./js/renderModal":"TqZv","./js/refs":"VyiV","./js/modalSlider":"jMmM"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.7b97edc2.js.map
+//# sourceMappingURL=/goit-js-hw-09-18/src.010dbf7c.js.map
