@@ -1,4 +1,4 @@
-import gallery from './gallery-items.js';
+// import gallery from './gallery-items.js';
 
 // const galleryContainer = document.querySelector('ul.js-gallery');
 
